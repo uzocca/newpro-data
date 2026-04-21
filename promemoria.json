@@ -238,7 +238,10 @@
     "text": "Analisi materiali ccnl \nTenere lista obsidian e riepilogo",
     "type": "lavoro",
     "urgent": false,
-    "contexts": [],
+    "contexts": [
+      "lcs",
+      "ccnl"
+    ],
     "timestamp": "2026-02-27T11:15:45.650Z",
     "date": "27/02/2026",
     "time": "12:15",
