@@ -225,7 +225,9 @@
     "text": "Facciamo raccolta normativa - controllo Lea e leps",
     "type": "lavoro",
     "urgent": false,
-    "contexts": [],
+    "contexts": [
+      "work"
+    ],
     "timestamp": "2026-02-27T11:17:08.822Z",
     "date": "27/02/2026",
     "time": "12:17",
