@@ -353,10 +353,12 @@
   },
   {
     "id": 1770968957865,
-    "text": "Ospedalidipinti - università",
+    "text": "università",
     "type": "lavoro",
     "urgent": false,
-    "contexts": [],
+    "contexts": [
+      "ascari"
+    ],
     "timestamp": "2026-02-13T07:49:17.865Z",
     "date": "13/02/2026",
     "time": "08:49",
