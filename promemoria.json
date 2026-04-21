@@ -196,7 +196,11 @@
     "text": "Mancanza personale - cosa fare ? Riprendere - Polonia ? Quale impatto robotica e ai ?",
     "type": "lavoro",
     "urgent": false,
-    "contexts": [],
+    "contexts": [
+      "ascari",
+      "work",
+      "organization"
+    ],
     "timestamp": "2026-02-27T11:34:08.996Z",
     "date": "27/02/2026",
     "time": "12:34",
