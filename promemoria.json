@@ -208,10 +208,13 @@
   },
   {
     "id": 1772191080609,
-    "text": "Possiamo fare unâanalisi del codice appalti e d. 81 - sito anac",
+    "text": "Possiamo fare un’analisi del codice appalti e d. 81 - sito anac",
     "type": "lavoro",
     "urgent": false,
-    "contexts": [],
+    "contexts": [
+      "ascari",
+      "lcs"
+    ],
     "timestamp": "2026-02-27T11:18:00.609Z",
     "date": "27/02/2026",
     "time": "12:18",
