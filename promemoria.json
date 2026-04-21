@@ -9,5 +9,366 @@
     "date": "21/04/2026",
     "time": "17:35",
     "completed": false
+  },
+  {
+    "id": 1776773572325,
+    "text": "La frase 445",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-04-21T12:12:52.325Z",
+    "date": "21/04/2026",
+    "time": "14:12",
+    "completed": false
+  },
+  {
+    "id": 1776416648442,
+    "text": "Tradurre unesco cultura su sociale - chiedo a Diego",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-04-17T09:04:08.442Z",
+    "date": "17/04/2026",
+    "time": "11:04",
+    "completed": false
+  },
+  {
+    "id": 1776416624113,
+    "text": "Riprendere strtgy su sociale e non profit",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-04-17T09:03:44.113Z",
+    "date": "17/04/2026",
+    "time": "11:03",
+    "completed": false
+  },
+  {
+    "id": 1776415873707,
+    "text": "Un agente per valutazione dell’impatto su progetti",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-04-17T08:51:13.707Z",
+    "date": "17/04/2026",
+    "time": "10:51",
+    "completed": false
+  },
+  {
+    "id": 1776413878891,
+    "text": "Prendo lo sviluppo dell’intervento in età e lo metto in valutazione impatto.",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-04-17T08:17:58.890Z",
+    "date": "17/04/2026",
+    "time": "10:17",
+    "completed": false
+  },
+  {
+    "id": 1776411127444,
+    "text": "Europassistance - Gruppo lavoro medicina a distanza",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-04-17T07:32:07.444Z",
+    "date": "17/04/2026",
+    "time": "09:32",
+    "completed": false
+  },
+  {
+    "id": 1774608846172,
+    "text": "Sostituire vigilanza con societÃ  esterne - sarebbe possibile?",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-27T10:54:06.172Z",
+    "date": "27/03/2026",
+    "time": "11:54",
+    "completed": false
+  },
+  {
+    "id": 1774540990692,
+    "text": "Fare una ricerca sui finanziamenti",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-26T16:03:10.692Z",
+    "date": "26/03/2026",
+    "time": "17:03",
+    "completed": false
+  },
+  {
+    "id": 1774540899588,
+    "text": "Quante ULA ? Riusciamo a scomporre e tornare PMI ?",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [
+      "datawork",
+      "dir"
+    ],
+    "timestamp": "2026-03-26T16:01:39.588Z",
+    "date": "26/03/2026",
+    "time": "17:01",
+    "completed": false
+  },
+  {
+    "id": 1774540346067,
+    "text": "Che fondo era a Roma ?",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-26T15:52:26.067Z",
+    "date": "26/03/2026",
+    "time": "16:52",
+    "completed": false
+  },
+  {
+    "id": 1774539756099,
+    "text": "Brighton",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-26T15:42:36.099Z",
+    "date": "26/03/2026",
+    "time": "16:42",
+    "completed": false
+  },
+  {
+    "id": 1772546778096,
+    "text": "Bar e caffÃ¨",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-03T14:06:18.095Z",
+    "date": "03/03/2026",
+    "time": "15:06",
+    "completed": false
+  },
+  {
+    "id": 1772440572493,
+    "text": "Abbonamenti quando leggere",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-02T08:36:12.493Z",
+    "date": "02/03/2026",
+    "time": "09:36",
+    "completed": false
+  },
+  {
+    "id": 1772194546029,
+    "text": "Linee guida",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T12:15:46.029Z",
+    "date": "27/02/2026",
+    "time": "13:15",
+    "completed": false
+  },
+  {
+    "id": 1772194133990,
+    "text": "Analisi ccnl",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T12:08:53.990Z",
+    "date": "27/02/2026",
+    "time": "13:08",
+    "completed": false
+  },
+  {
+    "id": 1772193445579,
+    "text": "Housing abitanti",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:57:25.579Z",
+    "date": "27/02/2026",
+    "time": "12:57",
+    "completed": false
+  },
+  {
+    "id": 1772192048996,
+    "text": "Mancanza personale - cosa fare ? Riprendere - Polonia ? Quale impatto robotica e ai ?",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:34:08.996Z",
+    "date": "27/02/2026",
+    "time": "12:34",
+    "completed": false
+  },
+  {
+    "id": 1772191080609,
+    "text": "Possiamo fare unâanalisi del codice appalti e d. 81 - sito anac",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:18:00.609Z",
+    "date": "27/02/2026",
+    "time": "12:18",
+    "completed": false
+  },
+  {
+    "id": 1772191028822,
+    "text": "Facciamo raccolta normativa - controllo Lea e leps",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:17:08.822Z",
+    "date": "27/02/2026",
+    "time": "12:17",
+    "completed": false
+  },
+  {
+    "id": 1772190945650,
+    "text": "Analisi materiali ccnl \nTenere lista obsidian e riepilogo",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:15:45.650Z",
+    "date": "27/02/2026",
+    "time": "12:15",
+    "completed": false
+  },
+  {
+    "id": 1772190580156,
+    "text": "Agisci come\nGuido Brera",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:09:40.156Z",
+    "date": "27/02/2026",
+    "time": "12:09",
+    "completed": false
+  },
+  {
+    "id": 1772190452554,
+    "text": "Format per gruppi di lavoro",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:07:32.554Z",
+    "date": "27/02/2026",
+    "time": "12:07",
+    "completed": false
+  },
+  {
+    "id": 1771367372241,
+    "text": "Regione - schema proposta - software presenze fatture - prenotazioni ecc.",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-17T22:29:32.241Z",
+    "date": "17/02/2026",
+    "time": "23:29",
+    "completed": false
+  },
+  {
+    "id": 1771327322857,
+    "text": "Defensive action - tutte le norme che si applicano - quelle della vigilanza",
+    "type": "lavoro",
+    "urgent": true,
+    "contexts": [],
+    "timestamp": "2026-02-17T11:22:02.857Z",
+    "date": "17/02/2026",
+    "time": "12:22",
+    "completed": false
+  },
+  {
+    "id": 1771323362011,
+    "text": "Piano tai chi",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-17T10:16:02.011Z",
+    "date": "17/02/2026",
+    "time": "11:16",
+    "completed": false
+  },
+  {
+    "id": 1771280919839,
+    "text": "L’associazione e i contenuti NextSocial",
+    "type": "idee",
+    "urgent": false,
+    "contexts": [
+      "organization"
+    ],
+    "timestamp": "2026-02-16T22:28:39.839Z",
+    "date": "16/02/2026",
+    "time": "23:28",
+    "completed": false
+  },
+  {
+    "id": 1771257008938,
+    "text": "complessità  - Call to action - materiali - controllo dir - libri",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [
+      "dir"
+    ],
+    "timestamp": "2026-02-16T15:50:08.938Z",
+    "date": "16/02/2026",
+    "time": "16:50",
+    "completed": false
+  },
+  {
+    "id": 1771238740220,
+    "text": "Analisi bando disab",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-16T10:45:40.220Z",
+    "date": "16/02/2026",
+    "time": "11:45",
+    "completed": false
+  },
+  {
+    "id": 1771229374033,
+    "text": "Ram mezz’ora - Analisi dati ore - Ottino - soft farmaci",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [
+      "datawork"
+    ],
+    "timestamp": "2026-02-16T08:09:34.033Z",
+    "date": "16/02/2026",
+    "time": "09:09",
+    "completed": false
+  },
+  {
+    "id": 1770995138792,
+    "text": "Cerrato bozza",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-13T15:05:38.792Z",
+    "date": "13/02/2026",
+    "time": "16:05",
+    "completed": false
+  },
+  {
+    "id": 1770968957865,
+    "text": "Ospedalidipinti - università",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-13T07:49:17.865Z",
+    "date": "13/02/2026",
+    "time": "08:49",
+    "completed": false
+  },
+  {
+    "id": 1770923727912,
+    "text": "Lavoro sulle regole - Cosa c’è di più importante",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-12T19:15:27.912Z",
+    "date": "12/02/2026",
+    "time": "20:15",
+    "completed": false
   }
 ]
