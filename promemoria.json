@@ -1,5 +1,16 @@
 [
   {
+    "id": 1779871965641,
+    "text": "Utile generativo",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-27T08:52:45.641Z",
+    "date": "27/05/2026",
+    "time": "10:52",
+    "completed": false
+  },
+  {
     "id": 1779859518017,
     "text": "Kpi su tipo attività, numero, ecc.",
     "type": "lavoro",
