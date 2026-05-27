@@ -1,5 +1,16 @@
 [
   {
+    "id": 1779859518017,
+    "text": "Kpi su tipo attività, numero, ecc.",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-27T05:25:18.017Z",
+    "date": "27/05/2026",
+    "time": "07:25",
+    "completed": false
+  },
+  {
     "id": 1779790710832,
     "text": "Controllare verbali + V lorenzini",
     "type": "lavoro",
