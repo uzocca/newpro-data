@@ -1,27 +1,5 @@
 [
   {
-    "id": 1779871965641,
-    "text": "Utile generativo",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-05-27T08:52:45.641Z",
-    "date": "27/05/2026",
-    "time": "10:52",
-    "completed": false
-  },
-  {
-    "id": 1779859518017,
-    "text": "Kpi su tipo attività, numero, ecc.",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-05-27T05:25:18.017Z",
-    "date": "27/05/2026",
-    "time": "07:25",
-    "completed": false
-  },
-  {
     "id": 1779790710832,
     "text": "Controllare verbali + V lorenzini",
     "type": "lavoro",
@@ -156,17 +134,6 @@
     "completed": false
   },
   {
-    "id": 1776773572325,
-    "text": "La frase 445",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-04-21T12:12:52.325Z",
-    "date": "21/04/2026",
-    "time": "14:12",
-    "completed": false
-  },
-  {
     "id": 1776416648442,
     "text": "Tradurre unesco cultura su sociale - chiedo a Diego",
     "type": "lavoro",
@@ -189,28 +156,6 @@
     "completed": false
   },
   {
-    "id": 1776415873707,
-    "text": "Un agente per valutazione dell’impatto su progetti",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-04-17T08:51:13.707Z",
-    "date": "17/04/2026",
-    "time": "10:51",
-    "completed": false
-  },
-  {
-    "id": 1776413878891,
-    "text": "Prendo lo sviluppo dell’intervento in età e lo metto in valutazione impatto.",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-04-17T08:17:58.890Z",
-    "date": "17/04/2026",
-    "time": "10:17",
-    "completed": false
-  },
-  {
     "id": 1776411127444,
     "text": "Europassistance - Gruppo lavoro medicina a distanza",
     "type": "lavoro",
@@ -219,17 +164,6 @@
     "timestamp": "2026-04-17T07:32:07.444Z",
     "date": "17/04/2026",
     "time": "09:32",
-    "completed": false
-  },
-  {
-    "id": 1774608846172,
-    "text": "Sostituire vigilanza con societÃ  esterne - sarebbe possibile?",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-03-27T10:54:06.172Z",
-    "date": "27/03/2026",
-    "time": "11:54",
     "completed": false
   },
   {
@@ -299,17 +233,6 @@
     "timestamp": "2026-03-02T08:36:12.493Z",
     "date": "02/03/2026",
     "time": "09:36",
-    "completed": false
-  },
-  {
-    "id": 1772194546029,
-    "text": "Linee guida",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-02-27T12:15:46.029Z",
-    "date": "27/02/2026",
-    "time": "13:15",
     "completed": false
   },
   {
