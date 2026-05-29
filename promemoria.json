@@ -66,17 +66,6 @@
     "completed": false
   },
   {
-    "id": 1779448891608,
-    "text": "Quarantacinque come gli anni",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-05-22T11:21:31.608Z",
-    "date": "22/05/2026",
-    "time": "13:21",
-    "completed": false
-  },
-  {
     "id": 1779448880839,
     "text": "Il lavoro al centro\nDecreto 1 maggio\nCoefficienti Ipca",
     "type": "lavoro",
@@ -96,17 +85,6 @@
     "timestamp": "2026-05-22T11:20:31.761Z",
     "date": "22/05/2026",
     "time": "13:20",
-    "completed": false
-  },
-  {
-    "id": 1779356515670,
-    "text": "Capacità di adattamento",
-    "type": "idee",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-05-21T09:41:55.670Z",
-    "date": "21/05/2026",
-    "time": "11:41",
     "completed": false
   },
   {
@@ -131,28 +109,6 @@
     "timestamp": "2026-04-21T14:57:53.228Z",
     "date": "21/04/2026",
     "time": "16:57",
-    "completed": false
-  },
-  {
-    "id": 1776416648442,
-    "text": "Tradurre unesco cultura su sociale - chiedo a Diego",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-04-17T09:04:08.442Z",
-    "date": "17/04/2026",
-    "time": "11:04",
-    "completed": false
-  },
-  {
-    "id": 1776416624113,
-    "text": "Riprendere strtgy su sociale e non profit",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-04-17T09:03:44.113Z",
-    "date": "17/04/2026",
-    "time": "11:03",
     "completed": false
   },
   {
@@ -236,17 +192,6 @@
     "completed": false
   },
   {
-    "id": 1772194133990,
-    "text": "Analisi ccnl",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-02-27T12:08:53.990Z",
-    "date": "27/02/2026",
-    "time": "13:08",
-    "completed": false
-  },
-  {
     "id": 1772193445579,
     "text": "Housing abitanti",
     "type": "lavoro",
@@ -255,20 +200,6 @@
     "timestamp": "2026-02-27T11:57:25.579Z",
     "date": "27/02/2026",
     "time": "12:57",
-    "completed": false
-  },
-  {
-    "id": 1772191080609,
-    "text": "Possiamo fare un’analisi del codice appalti e d. 81 - sito anac",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [
-      "ascari",
-      "lcs"
-    ],
-    "timestamp": "2026-02-27T11:18:00.609Z",
-    "date": "27/02/2026",
-    "time": "12:18",
     "completed": false
   },
   {
@@ -350,19 +281,6 @@
     "timestamp": "2026-02-13T15:05:38.792Z",
     "date": "13/02/2026",
     "time": "16:05",
-    "completed": false
-  },
-  {
-    "id": 1770968957865,
-    "text": "università",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [
-      "ascari"
-    ],
-    "timestamp": "2026-02-13T07:49:17.865Z",
-    "date": "13/02/2026",
-    "time": "08:49",
     "completed": false
   }
 ]
