@@ -356,17 +356,6 @@
     "completed": false
   },
   {
-    "id": 1771238740220,
-    "text": "Analisi bando disab",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-02-16T10:45:40.220Z",
-    "date": "16/02/2026",
-    "time": "11:45",
-    "completed": false
-  },
-  {
     "id": 1771229374033,
     "text": "Ram mezz’ora - Analisi dati ore - Ottino - soft farmaci",
     "type": "lavoro",
@@ -401,17 +390,6 @@
     "timestamp": "2026-02-13T07:49:17.865Z",
     "date": "13/02/2026",
     "time": "08:49",
-    "completed": false
-  },
-  {
-    "id": 1770923727912,
-    "text": "Lavoro sulle regole - Cosa c’è di più importante",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [],
-    "timestamp": "2026-02-12T19:15:27.912Z",
-    "date": "12/02/2026",
-    "time": "20:15",
     "completed": false
   }
 ]
