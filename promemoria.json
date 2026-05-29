@@ -288,7 +288,7 @@
   {
     "id": 1772190580156,
     "text": "Agisci come\nGuido Brera",
-    "type": "lavoro",
+    "type": "idee",
     "urgent": false,
     "contexts": [],
     "timestamp": "2026-02-27T11:09:40.156Z",
@@ -340,19 +340,6 @@
     "timestamp": "2026-02-16T22:28:39.839Z",
     "date": "16/02/2026",
     "time": "23:28",
-    "completed": false
-  },
-  {
-    "id": 1771257008938,
-    "text": "complessità  - Call to action - materiali - controllo dir - libri",
-    "type": "lavoro",
-    "urgent": false,
-    "contexts": [
-      "dir"
-    ],
-    "timestamp": "2026-02-16T15:50:08.938Z",
-    "date": "16/02/2026",
-    "time": "16:50",
     "completed": false
   },
   {
