@@ -1,5 +1,16 @@
 [
   {
+    "id": 1780129578091,
+    "text": "Modificare emc2",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-30T08:26:18.091Z",
+    "date": "30/05/2026",
+    "time": "10:26",
+    "completed": false
+  },
+  {
     "id": 1779790710832,
     "text": "Controllare verbali + V lorenzini",
     "type": "lavoro",
