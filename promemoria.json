@@ -1,5 +1,16 @@
 [
   {
+    "id": 1780299722745,
+    "text": "Utenti presenti wa",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-06-01T07:42:02.745Z",
+    "date": "01/06/2026",
+    "time": "09:42",
+    "completed": false
+  },
+  {
     "id": 1780129578091,
     "text": "Modificare emc2",
     "type": "lavoro",
