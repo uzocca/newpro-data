@@ -1,1 +1,330 @@
-[]
+[
+  {
+    "id": 1780338126998,
+    "text": "Messaggio di prova sync",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-06-01T18:22:06.998Z",
+    "date": "01/06/2026",
+    "time": "20:22",
+    "completed": false
+  },
+  {
+    "id": 1780299737329,
+    "text": "Documento di policy - le regole",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-06-01T07:42:17.329Z",
+    "date": "01/06/2026",
+    "time": "09:42",
+    "completed": false
+  },
+  {
+    "id": 1780299722745,
+    "text": "Utenti presenti wa",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-06-01T07:42:02.745Z",
+    "date": "01/06/2026",
+    "time": "09:42",
+    "completed": false
+  },
+  {
+    "id": 1780129578091,
+    "text": "Modificare emc2",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-30T08:26:18.091Z",
+    "date": "30/05/2026",
+    "time": "10:26",
+    "completed": false
+  },
+  {
+    "id": 1779790710832,
+    "text": "Controllare verbali + V lorenzini",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-26T10:18:30.832Z",
+    "date": "26/05/2026",
+    "time": "12:18",
+    "completed": false
+  },
+  {
+    "id": 1779789644685,
+    "text": "Riguardare file ristorni",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-26T10:00:44.685Z",
+    "date": "26/05/2026",
+    "time": "12:00",
+    "completed": false
+  },
+  {
+    "id": 1779787165437,
+    "text": "Contratto minori",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-26T09:19:25.437Z",
+    "date": "26/05/2026",
+    "time": "11:19",
+    "completed": false
+  },
+  {
+    "id": 1779718672193,
+    "text": "Come utilizzare promemoria Apple",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-25T14:17:52.193Z",
+    "date": "25/05/2026",
+    "time": "16:17",
+    "completed": false
+  },
+  {
+    "id": 1779471479449,
+    "text": "Verifica nome siti",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-22T17:37:59.449Z",
+    "date": "22/05/2026",
+    "time": "19:37",
+    "completed": false
+  },
+  {
+    "id": 1779471005499,
+    "text": "Controllare promemoria",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-22T17:30:05.499Z",
+    "date": "22/05/2026",
+    "time": "19:30",
+    "completed": false
+  },
+  {
+    "id": 1779448880839,
+    "text": "Il lavoro al centro\nDecreto 1 maggio\nCoefficienti Ipca",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-22T11:21:20.839Z",
+    "date": "22/05/2026",
+    "time": "13:21",
+    "completed": false
+  },
+  {
+    "id": 1779448831761,
+    "text": "Come salvare registrazioni -> obsidian",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-05-22T11:20:31.761Z",
+    "date": "22/05/2026",
+    "time": "13:20",
+    "completed": false
+  },
+  {
+    "id": 1777028330350,
+    "text": "Spazio a rivoli",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-04-24T10:58:50.350Z",
+    "date": "24/04/2026",
+    "time": "12:58",
+    "completed": false
+  },
+  {
+    "id": 1776783473228,
+    "text": "Tabor progetto scuola orale",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [
+      "ascari"
+    ],
+    "timestamp": "2026-04-21T14:57:53.228Z",
+    "date": "21/04/2026",
+    "time": "16:57",
+    "completed": false
+  },
+  {
+    "id": 1776411127444,
+    "text": "Europassistance - Gruppo lavoro medicina a distanza",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-04-17T07:32:07.444Z",
+    "date": "17/04/2026",
+    "time": "09:32",
+    "completed": false
+  },
+  {
+    "id": 1774540990692,
+    "text": "Fare una ricerca sui finanziamenti",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-26T16:03:10.692Z",
+    "date": "26/03/2026",
+    "time": "17:03",
+    "completed": false
+  },
+  {
+    "id": 1774540899588,
+    "text": "Quante ULA ? Riusciamo a scomporre e tornare PMI ?",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [
+      "datawork",
+      "dir"
+    ],
+    "timestamp": "2026-03-26T16:01:39.588Z",
+    "date": "26/03/2026",
+    "time": "17:01",
+    "completed": false
+  },
+  {
+    "id": 1774540346067,
+    "text": "Che fondo era a Roma ?",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-26T15:52:26.067Z",
+    "date": "26/03/2026",
+    "time": "16:52",
+    "completed": false
+  },
+  {
+    "id": 1774539756099,
+    "text": "Brighton",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-26T15:42:36.099Z",
+    "date": "26/03/2026",
+    "time": "16:42",
+    "completed": false
+  },
+  {
+    "id": 1772546778096,
+    "text": "Bar e caffÃ¨",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-03T14:06:18.095Z",
+    "date": "03/03/2026",
+    "time": "15:06",
+    "completed": false
+  },
+  {
+    "id": 1772440572493,
+    "text": "Abbonamenti quando leggere",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-03-02T08:36:12.493Z",
+    "date": "02/03/2026",
+    "time": "09:36",
+    "completed": false
+  },
+  {
+    "id": 1772193445579,
+    "text": "Housing abitanti",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:57:25.579Z",
+    "date": "27/02/2026",
+    "time": "12:57",
+    "completed": false
+  },
+  {
+    "id": 1772190580156,
+    "text": "Agisci come\nGuido Brera",
+    "type": "idee",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:09:40.156Z",
+    "date": "27/02/2026",
+    "time": "12:09",
+    "completed": false
+  },
+  {
+    "id": 1772190452554,
+    "text": "Format per gruppi di lavoro",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-27T11:07:32.554Z",
+    "date": "27/02/2026",
+    "time": "12:07",
+    "completed": false
+  },
+  {
+    "id": 1771327322857,
+    "text": "Defensive action - tutte le norme che si applicano - quelle della vigilanza",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-17T11:22:02.857Z",
+    "date": "17/02/2026",
+    "time": "12:22",
+    "completed": false
+  },
+  {
+    "id": 1771323362011,
+    "text": "Piano tai chi",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-17T10:16:02.011Z",
+    "date": "17/02/2026",
+    "time": "11:16",
+    "completed": false
+  },
+  {
+    "id": 1771280919839,
+    "text": "L’associazione e i contenuti NextSocial",
+    "type": "idee",
+    "urgent": false,
+    "contexts": [
+      "organization"
+    ],
+    "timestamp": "2026-02-16T22:28:39.839Z",
+    "date": "16/02/2026",
+    "time": "23:28",
+    "completed": false
+  },
+  {
+    "id": 1771229374033,
+    "text": "Ram mezz’ora - Analisi dati ore - Ottino - soft farmaci",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [
+      "datawork"
+    ],
+    "timestamp": "2026-02-16T08:09:34.033Z",
+    "date": "16/02/2026",
+    "time": "09:09",
+    "completed": false
+  },
+  {
+    "id": 1770995138792,
+    "text": "Cerrato bozza",
+    "type": "lavoro",
+    "urgent": false,
+    "contexts": [],
+    "timestamp": "2026-02-13T15:05:38.792Z",
+    "date": "13/02/2026",
+    "time": "16:05",
+    "completed": false
+  }
+]
