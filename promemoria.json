@@ -1,7 +1,7 @@
 [
   {
     "id": 1780346027469,
-    "text": "articolo per Bogetti\nDocumento di policy - le regole\nModificare emc2\nTabor progetto scuola orale\nL’associazione e i contenuti NextSocial",
+    "text": "Documento di policy - le regole\nModificare emc2\nTabor progetto scuola orale\nL’associazione e i contenuti NextSocial",
     "category": "idee",
     "link": "",
     "tags": [],
@@ -11,7 +11,8 @@
     "date": "01/06/2026",
     "time": "22:33",
     "notificationTime": null,
-    "completed": false
+    "completed": false,
+    "contexts": []
   },
   {
     "id": 1780299722745,
